@@ -17,6 +17,9 @@ import sys
 # lawmakers and the rules they write; punch lands on the last words;
 # specific detail (87-page draft, nineteen-year-old intern, four seconds)
 # instead of a worn tech-illiteracy cliche.
+# The roast's craft: a committee chair who regulates AI, crypto and the
+# internet, yet cannot turn a file into a PDF — and the nineteen-year-old
+# intern who does it in four seconds.
 SENTENCE = (
     "She chairs the committee that decides what your crypto wallet may hold, "
     "what your AI may say, and what the internet may show, yet this morning "
